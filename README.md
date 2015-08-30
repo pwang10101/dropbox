@@ -1,4 +1,4 @@
-## Dropbox [(raw)](https://raw.githubusercontent.com/pwang10101/dropbox/master/README.md)
+## Dropbox
 
 This is a basic Dropbox clone to sync files across multiple remote folders.
 
@@ -29,4 +29,4 @@ Time spent: `<Number of hours spent>`
 
 ### Walkthrough
 
-![Video Walkthrough](https://vimeo.com/user39231823/videos)
+![Video Walkthrough](dropbox_1.gif)

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon --exec babel-node -- --optional strict --stage 1 -- index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/pwang10101/dropbox/issues"
   },
-  "homepage": "https://github.com/pwang10101/dropbox#readme"
+  "homepage": "https://github.com/pwang10101/dropbox#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mime-types": "^2.1.5"
+  }
 }
