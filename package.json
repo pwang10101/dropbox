@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/pwang10101/dropbox#readme",
   "dependencies": {
+    "archiver": "^0.15.0",
     "express": "^4.13.3",
-    "mime-types": "^2.1.5"
+    "mime-types": "^2.1.5",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.4.3"
   }
 }
